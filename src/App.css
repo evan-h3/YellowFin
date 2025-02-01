@@ -1,0 +1,7 @@
+/* Minimal App styles */
+/* 如果不需要额外的样式，此文件内容可以为空 */
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
